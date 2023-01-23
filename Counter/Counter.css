@@ -1,0 +1,26 @@
+.incButton,
+.incButton1 {
+  text-align: center;
+  background-color: green;
+  margin: 5px 5px 20px 5px;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  width: 70px;
+  cursor: pointer;
+}
+.incButton1 {
+  font-size: 20px;
+  background-color: brown;
+}
+.reset {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.increment-all {
+  font-size: 20px;
+  padding: 0px 10px;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,64 @@
+.form-outer {
+  padding: 30px;
+  margin: 30px;
+}
+
+.input-label {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: black;
+}
+.form-title {
+  color: black;
+}
+.form-body {
+  padding: 20px;
+}
+.success-text {
+  color: white;
+  background-color: green;
+}
+.fail-text {
+  color: white;
+  background-color: red;
+  text-align: center;
+}
+
+.table-content {
+  color: black;
+}
+.styl {
+  align-content: center;
+  color: green;
+  font-size: 40px;
+}
+.username {
+  color: black;
+  padding-right: 05px;
+  margin-right: 10px;
+}
+.userinput {
+  align-items: center;
+}
+
+.password {
+  color: black;
+  padding-right: 05px;
+  margin-right: 10px;
+}
+.Logi {
+  color: black;
+  padding-top: 30px;
+}
+.homee {
+  color: black;
+}
+.btnList {
+  align-content: center;
+}
+.editt {
+  color: black;
+}
+.logout {
+  color: white;
+}
